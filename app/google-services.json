@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76607256421",
+    "project_id": "clowix-34c7b",
+    "storage_bucket": "clowix-34c7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76607256421:android:f030f0b21e439b6853538c",
+        "android_client_info": {
+          "package_name": "com.example.clowix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76607256421-tio5ku57p8hbkourpoosu17mdhpanvdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnv88cXkf5z295xZQvYxQAoVQFaN31mtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76607256421-tio5ku57p8hbkourpoosu17mdhpanvdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
