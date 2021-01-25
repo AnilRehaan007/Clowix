@@ -10,4 +10,5 @@ features:-
 *It has default storage of 5GB and you can extend it by choosing premium package.
 *It has real time access and storage capability.
 *Frames which is used in this app shows information visually without downloading that certain information.
+*You can perform share,rename,save and delete operation on your information. 
 
